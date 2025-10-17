@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\aldav\\OneDrive\\Desktop\\Progra_Avanzada_VN_G-5\\Progra_Ananzada_VN_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4949092-FD7D-4CA4-A09C-B8A8C5FFD6A2}|Proyecto_Programacion\\Proyecto_Programacion.csproj|c:\\users\\aldav\\onedrive\\desktop\\progra_avanzada_vn_g-5\\progra_ananzada_vn_5\\proyecto_programacion\\dto\\datos_comerciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4949092-FD7D-4CA4-A09C-B8A8C5FFD6A2}|Proyecto_Programacion\\Proyecto_Programacion.csproj|solutionrelative:proyecto_programacion\\dto\\datos_comerciosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4949092-FD7D-4CA4-A09C-B8A8C5FFD6A2}|Proyecto_Programacion\\Proyecto_Programacion.csproj|c:\\users\\aldav\\onedrive\\desktop\\progra_avanzada_vn_g-5\\progra_ananzada_vn_5\\proyecto_programacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4949092-FD7D-4CA4-A09C-B8A8C5FFD6A2}|Proyecto_Programacion\\Proyecto_Programacion.csproj|solutionrelative:proyecto_programacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Datos_ComerciosModel.cs",
-              "DocumentMoniker": "C:\\Users\\aldav\\OneDrive\\Desktop\\Progra_Avanzada_VN_G-5\\Progra_Ananzada_VN_5\\Proyecto_Programacion\\DTO\\Datos_ComerciosModel.cs",
-              "RelativeDocumentMoniker": "Proyecto_Programacion\\DTO\\Datos_ComerciosModel.cs",
-              "ToolTip": "C:\\Users\\aldav\\OneDrive\\Desktop\\Progra_Avanzada_VN_G-5\\Progra_Ananzada_VN_5\\Proyecto_Programacion\\DTO\\Datos_ComerciosModel.cs",
-              "RelativeToolTip": "Proyecto_Programacion\\DTO\\Datos_ComerciosModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T04:56:56.857Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldav\\OneDrive\\Desktop\\Progra_Avanzada_VN_G-5\\Progra_Ananzada_VN_5\\Proyecto_Programacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Programacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aldav\\OneDrive\\Desktop\\Progra_Avanzada_VN_G-5\\Progra_Ananzada_VN_5\\Proyecto_Programacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto_Programacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T05:37:13.593Z",
               "EditorCaption": ""
             }
           ]
